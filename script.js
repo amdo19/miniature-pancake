@@ -155,7 +155,7 @@ function enviarPedido() {
   const totalCalculado = (cantidad * PRECIO_UNITARIO).toFixed(2);
 
   // COLOCA AQUÍ TU NÚMERO CELULAR DE NEGOCIO (Ej: 593999999999)
-  const numeroTelefono = "593999999999"; 
+  const numeroTelefono = "593983811395"; 
 
   // Mensaje optimizado, limpio y con los requisitos de pago solicitados
   let mensajeTexto = `Hola, vengo de la pagina web y quiero realizar un pedido:\n\n`;
